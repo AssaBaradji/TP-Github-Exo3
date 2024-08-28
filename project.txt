@@ -4,4 +4,5 @@ Etape d'un projet:
 3.initialiser le projet
 4.installer les dependances 
 5.ajouter les fonctionnalités du project 
+7.Test et validation
 

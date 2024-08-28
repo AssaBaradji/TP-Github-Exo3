@@ -1,0 +1,7 @@
+Etape d'un projet:
+1.etudier le project 
+2.préparation de l'environnement de travail 
+3.initialiser le projet
+4.installer les dependances 
+5.ajouter les fonctionnalités du project 
+

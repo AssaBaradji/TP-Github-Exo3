@@ -6,4 +6,5 @@ Etape d'un projet:
 5.ajouter les fonctionnalités du project 
 6.Developpement et integration du project
 
+7.Test et validation
 
